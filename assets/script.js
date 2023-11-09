@@ -29,5 +29,23 @@ var questions = [
     },
 ];
 
+var questionContainer= document.getElementById("questions");
+var questionH2El = document.getElementById("question-title");
+var choicesEl = document.getElementById("choices");
+var startBtn = document.getElementById("start");
+var timerEl = document.getElementById("time");
+var endScreen = document.getElementById("end-screen");
+var finalScoreEl = document.getElementById("final-score");
+var initialsInput = document.getElementById("initials");
+var submitBtn = document.getElementById("submit");
+
+var currentQuestionIndex = 0;
+var timer = 180;
+var score = 0;
+
+
+
+ 
+
 
 
