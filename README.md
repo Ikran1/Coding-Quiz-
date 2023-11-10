@@ -19,7 +19,7 @@ Created a simple web-based coding quiz application where users can test their kn
 ![Coding quiz demo 3](./assets/Screenshot%203.png)
 ![Coding quiz demo 4](./assets/Screenshot%204.png)
 
-URL to deployed application:
+URL to deployed application: https://ikran1.github.io/Coding-Quiz-/
 
 ## Credit
 
